@@ -1,0 +1,10 @@
+.testimonial-card .card-up {
+    height: 61px !important;
+    
+}
+.testimonial-card .avatar {
+    width: 80px !important;
+}
+.card-body {
+    padding: 0.25rem !important;
+}

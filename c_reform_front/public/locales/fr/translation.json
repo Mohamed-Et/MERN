@@ -1,0 +1,16 @@
+{
+  "login_title": "Connexion",
+  "password_title": "Confirmé le mot de pass",
+  "your_email": "Votre Email",
+  "your_password": "Votre Mot de Passe ",
+  "manage_caroussel": "Gestion de Caroussel",
+  "manage_home": "Gestion de Home",
+  "manage_spaces": "Gestion des comptes",
+  "delete_confirm": "Étes-vous certain de vouloir supprimer cette ligne",
+  "manage_users": "Gestion des utilisateurs",
+  "firstName": "Prénom",
+  "lastName": "Nom",
+  "email": "Email",
+  "writeTitle": "Entrez le Title du Home Page",
+  "writeContent": "Entrez le Contenu du Home Page"
+}

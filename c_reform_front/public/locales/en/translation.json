@@ -1,0 +1,16 @@
+{
+  "login_title": "Log In",
+  "password_title": "Confirm Password",
+  "your_email": "You Email",
+  "your_password": "You Password",
+  "manage_caroussel": "Manage Caroussel",
+  "manage_home": "Manage Home",
+  "manage_spaces": "Manage Spaces",
+  "delete_confirm": "Are you sure you wish to delete this item? ",
+  "manage_users": "Manage Users",
+  "firstName": "First Name",
+  "lastName": "Last Name",
+  "email": "Email",
+  "writeTitle": "Write Home page Title",
+  "writeContent": "Write Home Page Contenu"
+}

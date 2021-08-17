@@ -1,0 +1,51 @@
+.wrapper {
+
+    display: flex;
+    width: 100%;
+    align-items: stretch;
+}
+
+#sidebar {
+    min-width: 250px;
+    max-width: 250px;
+    min-height: 100vh;
+    position: fixed;
+}
+
+#sidebar.active {
+    margin-left: -250px;
+}
+
+body {
+    padding-top: 47px !important;
+}
+
+#content {
+
+    margin-left: 255px !important;
+    margin-top: 10px;
+}
+
+#contentFull {
+
+    margin-left: 10px !important;
+    margin-top: 10px;
+    width: 100%;
+}
+
+.menu {
+    font-size: 0.9em !important;
+}
+
+.menu li {
+    background-color: #fff0 !important;
+}
+
+.menu a,
+.menu i {
+    color: #fff !important;
+}
+
+.indigo {
+    background-color: #3f5c80 !important;
+}

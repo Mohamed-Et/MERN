@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    Hi<!--
+    <%= typeof msg != 'undefined' ? msg : '' %>
+    -->
+    <form action="/caroussel" method="POST" enctype="multipart/form-data">
+      <label for="title">Title : </label><input type="text" name="title" />
+    </br>
+    </br>
+      <label for="description">desc : </label><input type="text" name="description" />
+  </br>
+  </br>
+    <label for="img">Upload ton image : </label> <input type="file" name="img" />
+    </br>
+  </br>
+    <button type="submit">Submit</button>
+    </form>
+  </body>
+  <br>
+  <img src="<%= typeof file != 'undefined' ? file : '' %>">
+  </html>
+</html>
